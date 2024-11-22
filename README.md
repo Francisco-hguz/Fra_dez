@@ -5,7 +5,7 @@ Front-End Developer Portfolio by Francisco Hernandez
 Soy desarrollador web con experiencia en HTML, CSS, JavaScript, y herramientas como WordPress, Woocomerce y SEO.
 
 ## 🚀 Proyectos Destacados
-- Website oficial de G&C Printing Solutions S.A de C.V https://gcprinting.mx :Desarrollo colaborativo del website oficial de la marca mediante el CMS Wordpress y Woocomerce. Implementancion de tecnologias como CSS, JavaScript, Semrush y google Ads
+- Website oficial de G&C Printing Solutions S.A de C.V https://gcprinting.mx : Desarrollo colaborativo del website oficial de la marca mediante el CMS Wordpress y Woocomerce. Implementancion de tecnologias como CSS, JavaScript, Semrush y google Ads
 
 
 ## 🛠️ Habilidades
